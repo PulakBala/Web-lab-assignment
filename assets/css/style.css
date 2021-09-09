@@ -293,8 +293,8 @@ header.header{
     font-size: 22px;
 }
 #testimonial-section .row img{
-    width: 500px;
-    height: 400px;
+    width: 400px;
+    height: 300px;
     clip-path: polygon(0 0,100% 0,100% 100%,70% 90%,0% 100%);
     border-radius: 20px;
     overflow: hidden;
